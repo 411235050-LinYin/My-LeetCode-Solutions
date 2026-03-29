@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2090-k-radius-subarray-averages](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2090-k-radius-subarray-averages](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
