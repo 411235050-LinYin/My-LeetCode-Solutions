@@ -81,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
+| [0113-path-sum-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
+| [0113-path-sum-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,4 +95,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
+| [0113-path-sum-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
