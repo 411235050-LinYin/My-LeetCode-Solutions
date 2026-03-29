@@ -28,4 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-k-radius-subarray-averages](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [0567-permutation-in-string](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
