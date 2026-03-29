@@ -77,4 +77,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
