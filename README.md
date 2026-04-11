@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0912-sort-an-array](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0910-smallest-range-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0910-smallest-range-ii) |
+| [1029-two-city-scheduling](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0912-sort-an-array](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0910-smallest-range-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0910-smallest-range-ii) |
+| [1029-two-city-scheduling](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0910-smallest-range-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0910-smallest-range-ii) |
+| [1029-two-city-scheduling](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
