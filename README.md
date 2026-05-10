@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0910-smallest-range-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0910-smallest-range-ii) |
 | [1029-two-city-scheduling](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+| [0376-wiggle-subsequence](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,4 +114,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0910-smallest-range-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0910-smallest-range-ii) |
 | [1029-two-city-scheduling](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+| [0376-wiggle-subsequence](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
