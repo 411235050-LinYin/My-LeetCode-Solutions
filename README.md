@@ -93,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [0113-path-sum-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0213-house-robber-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
