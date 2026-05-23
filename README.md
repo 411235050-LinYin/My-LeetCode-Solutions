@@ -94,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [0113-path-sum-ii](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [0886-possible-bipartition](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [0886-possible-bipartition](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 ## Binary Tree
 |  |
 | ------- |
@@ -127,8 +129,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [0886-possible-bipartition](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [0886-possible-bipartition](https://github.com/411235050-LinYin/My-LeetCode-Solutions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
